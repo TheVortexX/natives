@@ -32,7 +32,7 @@ enum eAnimationFlags
    ANIM_FLAG_STOP_LAST_FRAME = 2,  
    ANIM_FLAG_UPPERBODY = 16,  
    ANIM_FLAG_ENABLE_PLAYER_CONTROL = 32,  
-   ANIM_FLAG_CANCELABLE = 120,  
+   ANIM_FLAG_CANCELABLE = 128,  
 };  
 Odd number : loop infinitely  
 Even number : Freeze at last frame  
